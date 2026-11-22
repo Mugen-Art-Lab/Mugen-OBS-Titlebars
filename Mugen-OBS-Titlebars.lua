@@ -721,7 +721,8 @@ function script_description()
   -- Keep it short and language-neutral; the settings labels localize live.
   return "<b>Mugen OBS Titlebars v1.8.3 BETA</b><br>" ..
          "For OBS Studio 32–33 | Windows 11<br>" ..
-         "<a href=\"https://mugenartlab.com\">Made by Mugen Art Lab</a>"
+         "<a href=\"https://mugenartlab.com\">Made by Mugen Art Lab</a>" ..
+         " | <a href=\"https://github.com/Mugen-Art-Lab/Mugen-OBS-Titlebars\">GitHub</a>"
 end
 
 local function log_status_button(_properties, _property)

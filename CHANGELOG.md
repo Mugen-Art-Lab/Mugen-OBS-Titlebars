@@ -5,7 +5,7 @@ Notable changes to **Mugen OBS Titlebars**. The versions below are development c
 ## [1.8.3 BETA] — 2026-11-22
 
 - Adopted the **MIT License**, consistent with other Mugen Art Lab projects; added a copyright/SPDX notice to the Lua source.
-- Updated the OBS Scripts description with the clickable **Made by Mugen Art Lab** credit.
+- Updated the OBS Scripts description with the clickable **Made by Mugen Art Lab** credit and the public **GitHub** project link.
 - Included `LICENSE` in the distributable ZIP.
 - Preserved the existing title-bar engine, automatic matching, live preview and manual color selection.
 - Changed the current build label from **TEST** to **BETA** for private pre-release validation.
