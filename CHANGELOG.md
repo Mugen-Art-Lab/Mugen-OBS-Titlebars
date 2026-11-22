@@ -1,6 +1,6 @@
 # Changelog
 
-Notable changes to **Mugen OBS Titlebars**. The versions below are development candidates; **no public GitHub release has been published yet**.
+Notable changes to **Mugen OBS Titlebars**. The first public beta, [v1.8.3-beta.1](https://github.com/Mugen-Art-Lab/Mugen-OBS-Titlebars/releases/tag/v1.8.3-beta.1), was published on November 22, 2026. Earlier entries document private development milestones.
 
 ## [1.8.3 BETA] — 2026-11-22
 
@@ -8,7 +8,7 @@ Notable changes to **Mugen OBS Titlebars**. The versions below are development c
 - Updated the OBS Scripts description with the clickable **Made by Mugen Art Lab** credit and the public **GitHub** project link.
 - Included `LICENSE` in the distributable ZIP.
 - Preserved the existing title-bar engine, automatic matching, live preview and manual color selection.
-- Changed the current build label from **TEST** to **BETA** for private pre-release validation.
+- Changed the build label from **TEST** to **BETA** for the first public beta release.
 
 ## [1.8.2 TEST] — 2026-11-22
 

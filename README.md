@@ -8,7 +8,7 @@ A small, standalone Lua script for OBS Studio on Windows 11.
 
 [**Русский**](README_RU.md) · **English**
 
-[Website](https://mugenartlab.com) · [License](LICENSE) · [Changes](CHANGELOG.md)
+[Website](https://mugenartlab.com) · [Download latest release](https://github.com/Mugen-Art-Lab/Mugen-OBS-Titlebars/releases/latest) · [License](LICENSE) · [Changes](CHANGELOG.md)
 
 </div>
 
@@ -48,7 +48,7 @@ Actual OBS Studio 32.2.2 Portable screenshots on Windows 11. Only the native win
 | OBS Studio **32.2.2**, **64-bit portable**, Windows 11 | Tested: theme matching, palette parser, separate portable config and repeated startup |
 | Other OBS versions / operating systems | Not verified; **Windows 11 only** is the current target |
 
-This is a **beta pre-release candidate**. A short functional test is not a guarantee of long-session stability, support for every custom theme, or every monitor/DPI layout.
+This is the first **public beta release**. A short functional test is not a guarantee of long-session stability, support for every custom theme, or every monitor/DPI layout.
 
 ## Installation
 
